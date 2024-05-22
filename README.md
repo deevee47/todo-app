@@ -54,3 +54,4 @@ react state
 fetch
 
 //TODO: infinite render needs to be fixed
+//fixed: used useEffect hook
